@@ -1,2 +1,2 @@
-# Connet-It
+# Connect-It
 AI chatbot  that is capable of tackling anything.
